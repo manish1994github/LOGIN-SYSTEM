@@ -1,2 +1,2 @@
 # LOGIN-SYSTEM
-Login system just like and social media using user name and password
+Login system just like all social media using user name and password
